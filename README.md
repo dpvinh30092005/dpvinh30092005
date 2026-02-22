@@ -32,19 +32,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Vinh GitHub stats](https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Contact
 - GitHub: https://github.com/dpvinh30092005
-- Email: your-email@gmail.com
+- Email: dpvinh30092005@gmail.com
 
 ---
 
