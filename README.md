@@ -5,7 +5,7 @@
 
 ### 🚀 About me
 - 🎓 Software Engineering student
-- 🌱 Currently learning **Backend, Networking, System Design**
+- 🌱 Currently learning **Backend, System Design**
 - 🔥 Passionate about building scalable APIs & systems
 - 📍 Vietnam
 
