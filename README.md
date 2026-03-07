@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Vinh</h1>
+<h1 align="center">Hi 👋 I'm Dang Phuoc Vinh</h1>
 <h3 align="center">💻 Software Engineering Student | Backend Developer</h3>
-
+<h3 align="center">FPT University</h3>
 ---
 
 ### 🚀 About me
