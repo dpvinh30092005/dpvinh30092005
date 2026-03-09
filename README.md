@@ -7,8 +7,6 @@
 - 🎓 Software Engineering student
 - 🌱 Currently learning **Backend, System Design**
 - 🔥 Passionate about building scalable APIs & systems
-- 📍 Vietnam
-
 ---
 
 ### 💻 Tech Stack
