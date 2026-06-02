@@ -110,6 +110,8 @@
 </tr>
 </table>
 </table>
+<h2>📊 Contribution Activity</h2>
+[![Phuoc Vinh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dpvinh30092005)](https://github.com/dpvinh30092005/github-readme-activity-graph)
 
 <h2>🌌 Final Stats & Connect</h2>
 
