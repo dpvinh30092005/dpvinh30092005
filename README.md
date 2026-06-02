@@ -12,7 +12,7 @@
 
 <h2>💻 Technology Stack</h2>
 
-<table>
+<table align="center">
 <tr>
 <th>⚡ Language</th>
 <th>🗄️ Data & API</th>
