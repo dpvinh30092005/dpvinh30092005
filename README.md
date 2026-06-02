@@ -2,6 +2,8 @@
 <h3 align="center">💻 Software Engineering Student | Backend Developer</h3>
 <h3 align="center">FPT University</h3>
 
+> sys.read('Software Engineering')
+
 <h2>💻 Technology Stack</h2>
 
 <table>
@@ -101,14 +103,7 @@
 </td>
 </tr>
 </table>
-## I’m currently:
-
-* Learning Java, Spring Boot, and AI Engineering
-* Building personal and academic projects
-  
-## 
-
-
+ 
 ## Contact
 
 📫 Email: dpvinh30092005@gmail.com(mailto:dpvinh30092005@gmail.com)
