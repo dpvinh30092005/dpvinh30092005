@@ -104,13 +104,7 @@
 </tr>
 </table>
 <h2>🌌 Final Stats & Connect</h2>
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark">
-
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark">
-
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=7">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dpvinh30092005&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## Contact
 
