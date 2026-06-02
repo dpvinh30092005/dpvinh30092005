@@ -120,8 +120,19 @@
 
 <h2>🌌 Final Stats & Connect</h2>
 
+<h2>📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dpvinh30092005&theme=tokyonight-duo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=donut&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvinh30092005&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpvinh30092005&theme=tokyo-night" />
 </p>
 
 ## Contact
