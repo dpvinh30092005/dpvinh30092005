@@ -119,9 +119,6 @@
 </p>
 
 <h2>🌌 Final Stats & Connect</h2>
-
-<h2>📊 GitHub Analytics</h2>
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=donut&theme=tokyonight" />
