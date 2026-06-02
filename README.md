@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋 I'm Dang Phuoc Vinh</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Software+Engineering+-+AI+Engineering)](https://git.io/typing-svg)</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Software+Engineering+-+AI+Engineering" />
+  </a>
+</p>
+
 <h3 align="center">FPT University</h3>
 
 
