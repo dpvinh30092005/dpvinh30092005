@@ -103,8 +103,13 @@
 </td>
 </tr>
 </table>
+</table>
+
 <h2>🌌 Final Stats & Connect</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=dpvinh30092005&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dpvinh30092005&theme=tokyonight-duo" />
+</p>
 
 ## Contact
 
