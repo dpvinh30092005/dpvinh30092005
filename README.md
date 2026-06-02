@@ -120,18 +120,15 @@
 
 <h2>🌌 Final Stats & Connect</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=donut&theme=tokyonight" />
-</p>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=donut&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpvinh30092005&theme=tokyonight" />
-</p>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpvinh30092005&theme=tokyo-night" />
+  <img height="180em"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpvinh30092005&theme=tokyonight"/>
 </p>
-
 ## Contact
 
 📫 Email: dpvinh30092005@gmail.com(mailto:dpvinh30092005@gmail.com)
