@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineering Student | Backend Developer</h3>
 <h3 align="center">FPT University</h3>
 
-> sys.read('Software Engineering')
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Software+Engineering+-+AI+Engineering)](https://git.io/typing-svg)
 
 <h2>💻 Technology Stack</h2>
 
@@ -103,7 +103,15 @@
 </td>
 </tr>
 </table>
- 
+<h2>🌌 Final Stats & Connect</h2>
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark">
+
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark">
+
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=7">
+</p>
+
 ## Contact
 
 📫 Email: dpvinh30092005@gmail.com(mailto:dpvinh30092005@gmail.com)
