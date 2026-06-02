@@ -2,16 +2,105 @@
 <h3 align="center">💻 Software Engineering Student | Backend Developer</h3>
 <h3 align="center">FPT University</h3>
 
-## Skill Badges
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+<h2>💻 Technology Stack</h2>
 
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+<table>
+<tr>
+<th>⚡ Language</th>
+<th>🗄️ Data & API</th>
+<th>🎨 Web Development</th>
+</tr>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+<tr>
+<td>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
+
+</td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+
+</td>
+<td>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+
+</td>
+<td>
+
+![SQL](https://img.shields.io/badge/SQL-0088AA?style=for-the-badge)
+
+</td>
+<td>
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+
+</td>
+<td>
+
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge)
+
+</td>
+<td>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
+</td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
+</td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td>
+<td>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</td>
+<td>
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 ## I’m currently:
 
 * Learning Java, Spring Boot, and AI Engineering
