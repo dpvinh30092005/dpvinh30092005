@@ -121,13 +121,10 @@
 <h2>🌌 Final Stats & Connect</h2>
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=donut&theme=tokyonight"/>
+       src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpvinh30092005&theme=tokyonight"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&theme=tokyonight"/>
 </p>
 <h2>>Contact</h2>
 
