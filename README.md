@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Dang Phuoc Vinh</h1>
-<h3 align="center">💻 Software Engineering Student | Backend Developer</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Software+Engineering+-+AI+Engineering)](https://git.io/typing-svg)</h3>
 <h3 align="center">FPT University</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Software+Engineering+-+AI+Engineering)](https://git.io/typing-svg)
+
 
 <h2>💻 Technology Stack</h2>
 
