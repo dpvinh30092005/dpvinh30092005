@@ -8,8 +8,6 @@
 
 <h3 align="center">FPT University</h3>
 
-
-
 <h2>💻 Technology Stack</h2>
 
 <table align="center">
