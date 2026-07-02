@@ -19,10 +19,10 @@
 
 ### 🎯 About & Focus
 
-- 🎓 **Education**: Sinh viên chuyên ngành Kỹ thuật Phần mềm tại **FPT University**.
-- 🔭 **Current Focus**: Phát triển hệ thống Backend kiến trúc vững chắc và tích hợp các mô hình **AI/ML** vào ứng dụng thực tế.
-- 💡 **Engineering Philosophy**: Coi trọng Clean Code, tối ưu hiệu năng cơ sở dữ liệu và thiết kế hệ thống dễ mở rộng (Scalable Architecture).
-- 🌱 **Learning Goal**: Đi sâu vào AI Engineering, Deep Learning và DevOps Automation.
+- 🎓 **Education**: Software Engineering student at **FPT University**.
+- 🔭 **Current Focus**: Building robust backend architectures and integrating **AI/ML** models into real-world applications.
+- 💡 **Engineering Philosophy**: Committed to Clean Code, database performance optimization, and scalable system design.
+- 🌱 **Learning Goal**: Deepening expertise in AI Engineering, Deep Learning, and DevOps Automation.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
@@ -53,16 +53,11 @@
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="mailto:dpvinh30092005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dpvinh30092005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/dpvinh30092005">
-    <img src="https://img.shields.io/badge/GitHub-dpvinh30092005-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-dpvinh30092005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dpvinh30092005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dpvinh30092005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dpvinh30092005)
+
+<br/>
 
 <div align="center">
-  <br/>
   <sub>© Dang Phuoc Vinh — Keep building, keep learning</sub>
 </div>
