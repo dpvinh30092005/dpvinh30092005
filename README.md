@@ -44,15 +44,15 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/dpvinh30092005?label=Followers&style=flat-square&color=7aa2f7&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/dpvinh30092005?label=Stars&style=flat-square&color=e0af68&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/directory-file-count/dpvinh30092005?label=Repositories&style=flat-square&color=9ece6a&logo=github" alt="Repos"/>
-</p>
 <div align="center">
-  <!-- Minimalist Transparent Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&icon_color=7dcfff&border_color=7aa2f7&hide_border=false" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&border_color=7aa2f7&hide_border=false" width="45%" alt="Top Languages" />
+  <!-- Active Working Stats Extended (Transparent Dark Theme) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=dpvinh30092005&show_icons=true&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&icon_color=7dcfff&border_color=7aa2f7&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&border_color=7aa2f7&hide_border=false" width="45%" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <!-- Highly Stable Contribution Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=dpvinh30092005&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
 </div>
 
 ---
