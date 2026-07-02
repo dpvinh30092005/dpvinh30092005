@@ -44,9 +44,15 @@
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/dpvinh30092005?label=Followers&style=flat-square&color=7aa2f7&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/dpvinh30092005?label=Stars&style=flat-square&color=e0af68&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/directory-file-count/dpvinh30092005?label=Repositories&style=flat-square&color=9ece6a&logo=github" alt="Repos"/>
+</p>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvinh30092005&theme=tokyonight" width="48%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvinh30092005&theme=tokyonight" width="48%" alt="Most Commit Language" />
+  <!-- Minimalist Transparent Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&icon_color=7dcfff&border_color=7aa2f7&hide_border=false" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&border_color=7aa2f7&hide_border=false" width="45%" alt="Top Languages" />
 </div>
 
 ---
