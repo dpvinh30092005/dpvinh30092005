@@ -3,11 +3,11 @@
   <!-- Header & Subtitle -->
   <h1>Hi 👋, I'm Dang Phuoc Vinh</h1>
   
-  <p>
+  <h2>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=9ECE6A&center=true&vcenter=true&width=450&lines=Software+Engineering+%7C+AI+Engineering;Building+Scalable+%26+Intelligent+Systems;FPT+University+Student" alt="Typing SVG" />
     </a>
-  </p>
+  </h2>
 
   <p>
     <i>"Crafting efficient software solutions and integrating AI to solve real-world problems."</i>
@@ -45,8 +45,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpvinh30092005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpvinh30092005&theme=tokyonight" width="48%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpvinh30092005&theme=tokyonight" width="48%" alt="Most Commit Language" />
 </div>
 
 ---
