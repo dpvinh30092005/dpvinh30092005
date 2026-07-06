@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header & Subtitle -->
-  <h1>Hi 👋, I'm Dang Phuoc Vinh</h1>
+  <h1>Halu, I'm Dang Phuoc Vinh</h1>
   
   <h2>
     <a href="https://git.io/typing-svg">
@@ -17,16 +17,16 @@
 
 </div>
 
-### 🎯 About & Focus
+### About & Focus
 
-- 🎓 **Education**: Software Engineering student at **FPT University**.
-- 🔭 **Current Focus**: Building robust backend architectures and integrating **AI/ML** models into real-world applications.
-- 💡 **Engineering Philosophy**: Committed to Clean Code, database performance optimization, and scalable system design.
-- 🌱 **Learning Goal**: Deepening expertise in AI Engineering, Deep Learning, and DevOps Automation.
+-  **Education**: Software Engineering student at **FPT University**.
+-  **Current Focus**: Building robust backend architectures and integrating **AI/ML** models into real-world applications.
+-  **Engineering Philosophy**: Committed to Clean Code, database performance optimization, and scalable system design.
+-  **Learning Goal**: Deepening expertise in AI Engineering, Deep Learning, and DevOps Automation.
 
 ---
 
-### 🛠️ Core Capabilities
+### Core Capabilities
 
 **Languages & Fundamentals**  
 `Java` • `C#` • `Python` • `JavaScript` • `SQL`
@@ -57,13 +57,13 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-dpvinh30092005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dpvinh30092005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dpvinh30092005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dpvinh30092005)
 
 <br/>
 
-<div align="center">
+<div margin="0 auto">
   <sub>© Dang Phuoc Vinh — Keep building, keep learning</sub>
 </div>
