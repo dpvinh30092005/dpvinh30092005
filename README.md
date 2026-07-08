@@ -50,10 +50,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dpvinh30092005&layout=compact&bg_color=00000000&text_color=c0caf5&title_color=7aa2f7&border_color=7aa2f7&hide_border=false" width="45%" alt="Top Languages" />
 </div>
 <br/>
-<div align="center">
-  <!-- Highly Stable Contribution Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=dpvinh30092005&theme=tokyonight&hide_border=true" width="94%" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -64,6 +60,6 @@
 
 <br/>
 
-<div margin="0 auto">
+<div align="center">
   <sub>© Dang Phuoc Vinh — Keep building, keep learning</sub>
 </div>
