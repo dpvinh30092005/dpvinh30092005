@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <!-- Active Working Stats Extended (Transparent Dark Theme) -->
@@ -52,12 +52,12 @@
 <br/>
 
 ---
-
+<div align="center">
 ###  Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-dpvinh30092005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dpvinh30092005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dpvinh30092005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dpvinh30092005)
-
+</div>
 <br/>
 
 <div align="center">
