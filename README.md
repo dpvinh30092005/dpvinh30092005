@@ -31,17 +31,21 @@
 
 ### Core Capabilities
 
-**Languages & Fundamentals**  
-`Java` • `C#` • `Python` • `JavaScript` • `SQL`
+## Programming Languages
+`Java` • `Python` • `JavaScript` • `SQL`
 
-**Backend & Data Architecture**  
-`Spring Boot` • `Node.js` • `PostgreSQL` • `RESTful APIs`
+## Backend
+`Spring Boot` • `Spring Data JPA (Hibernate)` • `RESTful APIs`
 
-**Frontend & User Interface**  
-`React` • `Tailwind CSS` • `HTML5/CSS3`
+## Database
+`PostgreSQL`
 
-**DevOps & Tools**  
-`Docker` • `CI/CD Pipelines` • `Git` • `GitHub`
+## Frontend
+`React` • `Tailwind CSS` • `HTML5` • `CSS3`
+
+## DevOps & Version Control
+`Docker` • `Git` • `GitHub` 
+
 
 ---
 
