@@ -20,10 +20,6 @@
 
 </div>
 
-<div align="center">
-  <img src="Sakura.gif" width="480" alt="Sakura" />
-</div>
-
 <br/>
 
 ### About & Focus
@@ -72,7 +68,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-dpvinh30092005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dpvinh30092005)
 </div>
 <br/>
-
+<div align="center">
+  <img src="Sakura.gif" width="480" alt="Sakura" />
+</div>
+<br/>
 <div align="center">
   <sub>© Dang Phuoc Vinh — Keep building, keep learning</sub>
 </div>
