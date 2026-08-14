@@ -15,9 +15,6 @@
   <p>
     <i>"Cạnh người tâm thế lớn, ta ngại sống tầm thường."</i>
   </p>
-
-  <br/>
-
 </div>
 
 <br/>
