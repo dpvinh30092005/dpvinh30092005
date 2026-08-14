@@ -20,6 +20,12 @@
 
 </div>
 
+<div align="center">
+  <img src="Sakura.gif" width="480" alt="Sakura" />
+</div>
+
+<br/>
+
 ### About & Focus
 
 -  **Education**: Software Engineering student at **FPT University**.
